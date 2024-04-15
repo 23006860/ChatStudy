@@ -1,3 +1,5 @@
+# Develop By: NaveenKumar.T
+# Reg No :    212223220067
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
@@ -73,6 +75,18 @@ Client-server chat applications are versatile tools that facilitate real-time co
 
 Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems. As technology evolves, chat applications continue to adapt, incorporating new features and technologies to enhance user interaction and connectivity.
 
+# Program:
+
+## Client:
+![319864001-29178708-ccfd-476d-be46-f0fa142ae435](https://github.com/820NaveenKumar208/ChatStudy/assets/154746066/0c9d07b4-2678-48f1-8f33-05a82de7e602)
+
+## Server:
+![319864233-095a7a4c-98ee-4f5e-8aba-f3895298bb40](https://github.com/820NaveenKumar208/ChatStudy/assets/154746066/0883c7ca-95cb-4ee8-b9f1-b4b51e9b6bc3)
+
+# Output:
+![319864210-78d3c4ac-8e35-45ac-b2e2-b549f0aeddef](https://github.com/820NaveenKumar208/ChatStudy/assets/154746066/6a215818-4546-4620-b148-a6e99657c98d)
+
+![319864267-aa7a7716-4e1d-465e-b274-0f26f39543aa](https://github.com/820NaveenKumar208/ChatStudy/assets/154746066/f36b6c8a-242c-4f68-b9f7-f536da32d87d)
 
 ## Result:
 
