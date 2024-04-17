@@ -1,5 +1,5 @@
-# Develop By: NaveenKumar.T
-# Reg No :    212223220067
+# Develop By: Rahul V
+# Reg No :    212223240133
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
